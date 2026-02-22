@@ -1,3 +1,9 @@
 spring:
   application:
     name: demo
+
+  security:
+    user:
+      password: demo@123
+
+      name: admin
